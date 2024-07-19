@@ -1,2 +1,2 @@
 # myLeet
-This is repository which shows my LeetCode experience
+This is a repository 
